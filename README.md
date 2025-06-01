@@ -31,7 +31,7 @@ A fully automated bot that scans newly published scientific papers on **chronic 
 1. **Clone the repo:**
 
 ```bash
-git clone https://github.com/yourname/bioresearch-bot.git
+git clone https://github.com/shinkaryov/bioresearch-bot.git
 cd bioresearch-bot
 ````
 
@@ -99,8 +99,3 @@ By default, the bot uses:
 
 * [`meta-llama/llama-4-scout:free`](https://openrouter.ai/models/meta-llama/llama-4-scout)
 * Hosted via [OpenRouter](https://openrouter.ai)
-
----
-
-Хочеш, я одразу згенерую `requirements.txt`, якщо ще не зроблено?
-```
