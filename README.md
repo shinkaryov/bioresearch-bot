@@ -1,4 +1,4 @@
-# 🧬 BioResearch Telegram Bot
+# 🧬 BioResearch Telegram Bot 
 
 A fully automated bot that scans newly published scientific papers on **chronic pancreatitis**, filters them using an LLM (LLaMA via OpenRouter), summarizes the valuable ones in Ukrainian, and sends them to a Telegram channel or private chat.
 
