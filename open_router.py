@@ -3,7 +3,7 @@ import requests
 
 
 class LLMOpenRouter:
-    def __init__(self, api_key: str = None, model: str = "meta-llama/llama-4-scout:free"):
+    def __init__(self, api_key: str = None, model: str = "meta-llama/llama-3.3-70b-instruct:free"):
         self.api_key = api_key or os.getenv("OPENROUTER_API_KEY")
         if not self.api_key:
             raise ValueError("OPENROUTER_API_KEY is not set")
