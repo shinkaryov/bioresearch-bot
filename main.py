@@ -4,7 +4,7 @@ from scraper import EuropePMCScraper
 
 LLM_TEXT_CHAR_LIMIT = 15_000
 
-scraper = EuropePMCScraper(days_back=7)
+scraper = EuropePMCScraper(days_back=120)
 articles = scraper.get_recent_articles()
 
 
