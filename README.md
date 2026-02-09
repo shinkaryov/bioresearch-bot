@@ -76,7 +76,6 @@ Secrets to configure:
 * `TG_TOKEN`
 * `TG_CHAT_ID`
 * `OPENROUTER_API_KEY`
-
 ---
 
 ## 📂 Project Structure
